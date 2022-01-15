@@ -1,5 +1,5 @@
 # To-Do-List
-My First Project after 23 days learning about programming, there is a ton of content that I need to learn and improve.
+My First Project after 20 days learning about programming, there is a ton of content that I need to learn and improve.
 Open to constructive critics!
 
 # Preview
