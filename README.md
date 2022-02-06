@@ -4,9 +4,10 @@ Open to constructive critics!
 
 # **V1.1** (06/02/21) Upadate!
 
-Added Done button.
-Increased the size of input box.
-New transform animation on List Items.
+Added Done button.\n
+Increased the size of input box.\n
+New transform animation on List Items.\n
+\n
 
 
 ![Gif Preview](https://i.imgur.com/6TZ9o9P.gif)
