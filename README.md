@@ -2,8 +2,12 @@
 My First Project after 23 days learning about programming, there is a ton of content that I need to learn and improve.
 Open to constructive critics!
 
-# Preview
+# V1.1 (06/02/21) Upadate!
 
-![Preview to the To do List](https://i.imgur.com/4uL6h5n.png)
+![Gif Preview](https://i.imgur.com/6TZ9o9P.gif)
 
-![Preview to the To do List](https://i.imgur.com/42lDI7K.png)
+### Preview Desktop
+![Preview 1](https://i.imgur.com/PCYyVbv.png)
+
+### Mobile Preview
+![Mobile View](https://i.imgur.com/qzvGyZu.png)
